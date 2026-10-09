@@ -3,7 +3,7 @@
 ## Environment Setup
 
 ```bash
-git clone https://github.com/Pranavii-Git/ai-job-agent.git
+git clone https://github.com/Pranavii-Git/Agentic-Project.git
 cd universal-ai-job-agent
 python -m venv venv
 # Windows PowerShell:

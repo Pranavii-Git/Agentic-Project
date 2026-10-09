@@ -153,7 +153,7 @@ Full architecture documentation with sequence, component, and data-flow diagrams
 ### Fastest: Docker (full stack, one command)
 
 ```bash
-git clone https://github.com/Pranavii-Git/ai-job-agent.git
+git clone https://github.com/Pranavii-Git/Agentic-Project.git
 cd universal-ai-job-agent
 docker compose up --build
 # UI: http://localhost:8501 · API docs: http://localhost:8000/docs
@@ -170,7 +170,7 @@ cp data/sample_jobs.json data/jobs.json
 **Requirements:** Python 3.11 · Node.js ≥ 18 · Docker Desktop (for outcome logging) · [Ollama](https://ollama.com) with `mistral` (for tailoring/cover letters)
 
 ```bash
-git clone https://github.com/Pranavii-Git/ai-job-agent.git
+git clone https://github.com/Pranavii-Git/Agentic-Project.git
 cd universal-ai-job-agent
 
 python -m venv venv
